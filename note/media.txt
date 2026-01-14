@@ -1214,7 +1214,9 @@ simir               | game  | 2019 | Outer Wilds                                
 simir               | game  | 2023 | Mars First Logistics                                           | --                 | --                     | --                       | --
 simir               | short | 2016 | Scavengers                                                     | Scavengers         | Charles Huettner       | scifi                    | https://www.youtube.com/watch?v=1TRzemJbUsw
 swat_city           | anime |      | WALL-E Character EVE                                           | --                 | --                     | --                       | --
-swat_city           | anime | 1994 | The Pagemaster                                                 | --                 | --                     | --                       | --
+swat_city           | anime | 1994 | The Pagemaster                                                 | --                 | --                     | --                       | https://www.imdb.com/title/tt0110763/locations
+swat_city           | anime | 1994 | The Pagemaster - Scene - Library 1/2                           | --                 | --                     | --                       | https://www.youtube.com/watch?v=oE9X3T_2eGc
+swat_city           | anime | 1994 | The Pagemaster - Scene - Library 2/2                           | --                 | --                     | --                       | https://www.youtube.com/watch?v=g0B9rK3wpYw
 swat_city           | anime | 1995 | Ghost in the Shell                                             | --                 | --                     | --                       | --
 swat_city           | anime | 1997 | G-Police - Trailer                                             | --                 | Peter Chung            | --                       | https://www.youtube.com/watch?v=TSUX3qGcWS4
 swat_city           | anime | 1998 | Serial Experiments Lain                                        | --                 | --                     | --                       | --
