@@ -1,0 +1,8 @@
+francis
+smoke
+vapor
+solid
+liquid
+plasma
+ghost
+shell
