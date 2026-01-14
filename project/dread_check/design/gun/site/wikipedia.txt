@@ -6,7 +6,7 @@ YEAR | KEY              | LINK
 1948 | mauser_k98k_is   | https://en.wikipedia.org/wiki/Karabiner_98k
 1954 | 762_nato         | https://en.wikipedia.org/wiki/7.62×51mm_NATO
 1970 | rus_ags_17       | https://en.wikipedia.org/wiki/AGS-17
-1975 | rus_aps          | https://en.wikipedia.org/wiki/APS_underwater_rifle
+1975 | rus_aps_special  | https://en.wikipedia.org/wiki/APS_underwater_rifle
 1980 | 556_nato         | https://en.wikipedia.org/wiki/5.56×45mm_NATO
 1982 | usa_colt_633_doe | https://en.wikipedia.org/wiki/Colt_9mm_SMG
 1982 | usa_colt_635     | https://en.wikipedia.org/wiki/Colt_9mm_SMG
