@@ -2,7 +2,7 @@
 
 - Bash (included in Git for Windows)
 - Python 3
-- Visual Studio Code
+- Visual Studio Code or equivalent
 
 # Development
 
