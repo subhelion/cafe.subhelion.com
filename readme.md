@@ -1,6 +1,7 @@
 # Requirements
 
 - Bash (included in Git for Windows)
+- Python 3
 - Visual Studio Code
 
 # Development
@@ -30,21 +31,24 @@ code .
 
 ```sh
 
-# installation
-install
-
 # editing
 start
 sync
+sync-fix
 
 # development
 run
 
+# data management
+script/check/profile
+script/check/site
+
 # publishing
-activate
-build
-clean
-freeze
-publish
+script/publish/activate
+script/publish/build
+script/publish/clean
+script/publish/freeze
+script/publish/install
+script/publish/publish
 
 ```
