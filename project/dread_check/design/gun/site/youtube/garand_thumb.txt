@@ -8,13 +8,13 @@ DATE       | SLUG        | LINK                                   | TOPIC       
 ---------- | 6xQ6zMpltZs | http://youtube.com/watch?v=6xQ6zMpltZs | terminal_ballistic       | How Deadly Is 5.56 At Close Range?
 ---------- | FkyDmst6fek | http://youtube.com/watch?v=FkyDmst6fek | --                       | UMP45: America Didn't Want it, But Video Games Made It Immortal
 ---------- | x6_8rUggyX8 | http://youtube.com/watch?v=x6_8rUggyX8 | --                       | The Quietest Assaulter’s Rifle in US SOCOM’s Entire Inventory
----------- | nsDEZYZ-uXU | http://youtube.com/watch?v=nsDEZYZ-uXU | --                       | The US Army's New Rifle Just Got An Upgrade; The M7A1 SPEAR
----------- | 5xmHL8Q4JT0 | http://youtube.com/watch?v=5xmHL8Q4JT0 | --                       | How Deadly Is 17 HMR? (Super Small Varmint Round)
+---------- | nsDEZYZ-uXU | http://youtube.com/watch?v=nsDEZYZ-uXU | sig_mcx_spear_m7a1       | The US Army's New Rifle Just Got An Upgrade; The M7A1 SPEAR
+---------- | 5xmHL8Q4JT0 | http://youtube.com/watch?v=5xmHL8Q4JT0 | 17_hmr                   | How Deadly Is 17 HMR? (Super Small Varmint Round)
 ---------- | b3jDdKXtzu0 | http://youtube.com/watch?v=b3jDdKXtzu0 | --                       | Two Mags in One, You Twist The Magazine around to Reload; The Mimic Speed 9
----------- | yB3JGdPsR88 | http://youtube.com/watch?v=yB3JGdPsR88 | --                       | The KH9-SD: How Gun Autism Brought Back The Coolest Gun From The 80’s
+---------- | yB3JGdPsR88 | http://youtube.com/watch?v=yB3JGdPsR88 | bt_kh9_sd                | The KH9-SD: How Gun Autism Brought Back The Coolest Gun From The 80’s
 ---------- | 8hXaipMtw38 | http://youtube.com/watch?v=8hXaipMtw38 | --                       | Does This $6000 Handgun Really Eliminate Recoil?
 ---------- | 87qpYJsFq0M | http://youtube.com/watch?v=87qpYJsFq0M | evasion                  | How To Evade A Professional Military as a Two Man Team
----------- | ipJ9k8dcmKE | http://youtube.com/watch?v=ipJ9k8dcmKE | --                       | The MP5SD: The SMG That’s Seen More Brains Than a Brain Surgeon
+---------- | ipJ9k8dcmKE | http://youtube.com/watch?v=ipJ9k8dcmKE | hk_mp5_sd                | The MP5SD: The SMG That’s Seen More Brains Than a Brain Surgeon
 ---------- | eZA3PtkxFH8 | http://youtube.com/watch?v=eZA3PtkxFH8 | --                       | The Upgraded Steyr Aug Might Be One Of The Best Combat Rifles
 ---------- | Rnk6ZVF8fv0 | http://youtube.com/watch?v=Rnk6ZVF8fv0 | navigation               | How To Navigate In The Wilderness (MAP AND COMPASS)
 ---------- | x1bfuoi8DaU | http://youtube.com/watch?v=x1bfuoi8DaU | --                       | Is This the Quietest Rifle in History?
@@ -23,7 +23,7 @@ DATE       | SLUG        | LINK                                   | TOPIC       
 ---------- | zzGzSnh--OE | http://youtube.com/watch?v=zzGzSnh--OE | terminal_ballistic       | Is The 45 AUTO Really as Deadly As History Says it is?
 ---------- | 3ccajcRHuQs | http://youtube.com/watch?v=3ccajcRHuQs | --                       | The Real Guns Of The Battlefield 6 Open Beta
 ---------- | 1PrwZGAZJqQ | http://youtube.com/watch?v=1PrwZGAZJqQ | --                       | The Shortest M-14 Variant Springfield Has Made; The SOCOM 16 CQB
----------- | qXeA9v0j6Xk | http://youtube.com/watch?v=qXeA9v0j6Xk | --                       | The AKM Has Evolved. The American Made SAK-21
+---------- | qXeA9v0j6Xk | http://youtube.com/watch?v=qXeA9v0j6Xk | stenzel_sak_21           | The AKM Has Evolved. The American Made SAK-21
 ---------- | xMnQCDTtt04 | http://youtube.com/watch?v=xMnQCDTtt04 | --                       | The ATF Is Pissed. The MP5 Now Has A Forced Reset Trigger.
 ---------- | UbNuAmhqer0 | http://youtube.com/watch?v=UbNuAmhqer0 | --                       | The Nazi's Last Design That Became The Rifle Of The Free West
 ---------- | cn2tGuS8gGY | http://youtube.com/watch?v=cn2tGuS8gGY | --                       | We Made The MP5 W/ M203 From Half Life; You Can Own One
@@ -342,7 +342,7 @@ DATE       | SLUG        | LINK                                   | TOPIC       
 ---------- | HhJONVtpUI8 | http://youtube.com/watch?v=HhJONVtpUI8 | --                       | The PKM (the worlds best machine gun?)
 ---------- | B7yS8hK6vlE | http://youtube.com/watch?v=B7yS8hK6vlE | --                       | The Fix, lightweight precision bolt gun
 ---------- | xWiEOFfgdS4 | http://youtube.com/watch?v=xWiEOFfgdS4 | --                       | Best weapon light ever? Cloud Defensive OWL (Weapon light comparison)
----------- | _jyy5QqkDJo | http://youtube.com/watch?v=_jyy5QqkDJo | --                       | The AKM (the most common assault rifle in the world)
+---------- | _jyy5QqkDJo | http://youtube.com/watch?v=_jyy5QqkDJo | akm                      | The AKM (the most common assault rifle in the world)
 ---------- | xEbMy_YX9vg | http://youtube.com/watch?v=xEbMy_YX9vg | --                       | "If you've ever..." compilation (Garand Thumb)
 ---------- | GHBZTBOke1s | http://youtube.com/watch?v=GHBZTBOke1s | --                       | The MP5SD
 ---------- | 5hCDlraRPkw | http://youtube.com/watch?v=5hCDlraRPkw | --                       | Spec Ops Workhorse: M4A1 SOPMOD Block II
@@ -405,7 +405,7 @@ DATE       | SLUG        | LINK                                   | TOPIC       
 ---------- | tnYHlccNeTE | http://youtube.com/watch?v=tnYHlccNeTE | --                       | Vortex UH-1 Huey, the EOTech killer? (Lower priced holo sight)
 ---------- | 05yJpFw-sR8 | http://youtube.com/watch?v=05yJpFw-sR8 | --                       | Minimalist Civ/LEO Plate Carrier Setup / Ferro Concepts Slickster
 ---------- | swBviqp8k0c | http://youtube.com/watch?v=swBviqp8k0c | optic                    | Aimpoint Comp M5 review (Brand new optic from Aimpoint!)
----------- | XCzIqgzT390 | http://youtube.com/watch?v=XCzIqgzT390 | --                       | Basics of Individual First Aid Kits / Boo Boo kits
+---------- | XCzIqgzT390 | http://youtube.com/watch?v=XCzIqgzT390 | medicine                 | Basics of Individual First Aid Kits / Boo Boo kits
 ---------- | c48rOiPu3kY | http://youtube.com/watch?v=c48rOiPu3kY | usa_colt_ar_15           | CQB AR15/M4 Setup; Black Powder Red Earth Special
 ---------- | tksIHPqD35Y | http://youtube.com/watch?v=tksIHPqD35Y | optic                    | Elcan Specter Tri-Role 1x 3x 9x Optic
 ---------- | frI-IV6jK8Y | http://youtube.com/watch?v=frI-IV6jK8Y | --                       | DSA SA58 OSW (Operations Specialist Weapon)
@@ -431,7 +431,7 @@ DATE       | SLUG        | LINK                                   | TOPIC       
 ---------- | pCseCsThnNc | http://youtube.com/watch?v=pCseCsThnNc | optic                    | EOTech Vudu 1-6X Optic Review (Also Compared to Vortex 1-6X)
 ---------- | MVwQDUpPMAI | http://youtube.com/watch?v=MVwQDUpPMAI | optic                    | Primary Arms ACOG with ACSS reticle
 ---------- | YDv87El9md0 | http://youtube.com/watch?v=YDv87El9md0 | glock                    | Basics of custom Glocks
----------- | bq860Js0QJ0 | http://youtube.com/watch?v=bq860Js0QJ0 | --                       | CZ 805 Bren pistol / The Czech SCAR?
+---------- | bq860Js0QJ0 | http://youtube.com/watch?v=bq860Js0QJ0 | cz_805_bren              | CZ 805 Bren pistol / The Czech SCAR?
 ---------- | tUKHY7OHIRc | http://youtube.com/watch?v=tUKHY7OHIRc | survival                 | Survival Tip: Fire starting when wounded / EDC Core flameless lighter product highlight
 ---------- | DeTQyBXUjhI | http://youtube.com/watch?v=DeTQyBXUjhI | usa_m4a1_cqbr_mk18_mod_1 | MK18 Mod 1 / SBR Setup (2017 edition)
 ---------- | SPUb7RDDPwo | http://youtube.com/watch?v=SPUb7RDDPwo | optic                    | Review: The M-Zero Scope Mount - One optic zeroed for multiple rifles.
