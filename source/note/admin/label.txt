@@ -1,3 +1,7 @@
+----------------------------------------------------------
+PRODUCT
+----------------------------------------------------------
+
 DREAD CHECK
 DREAD CHECK BRAVO
 DREAD CHECK SUPER
@@ -29,7 +33,9 @@ WEB GAME
 DREAD CHECK ZINE
 HTTPS://SUBHELION.ITCH.IO/ZINE
 
---8<--
+----------------------------------------------------------
+LABEL
+----------------------------------------------------------
 
 SUBHELION
 HTTPS://SUBHELION.COM
@@ -38,7 +44,9 @@ HTTPS://GITHUB.COM/SUBHELION
 HTTPS://TWITTER.COM/SUBHELION
 HTTPS://BSKY.APP/PROFILE/SUBHELION.COM
 
---8<--
+----------------------------------------------------------
+PROFILE
+----------------------------------------------------------
 
 BELIMOTH
 ZACHARY ALEXANDER
@@ -54,6 +62,14 @@ CODE, DESIGN, DIRECTION, PRODUCTION, WRITING
 
 HTTPS://CASH.APP/BELIMOTH
 HTTPS://VENMO.COM/U/BELIMOTH
+
+--8<--
+
+CAPNTASTIC
+HTTPS://PATREON.COM/CAPNTASTIC
+HTTPS://TWITTER.COM/CAPNTASTIC
+HTTPS://BSKY.APP/PROFILE/CAPNTASTIC.BSKY.SOCIAL
+DESIGN, DIRECTION, PRODUCTION, WRITING
 
 --8<--
 
