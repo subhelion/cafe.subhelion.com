@@ -26,37 +26,36 @@ threefold_path_zach |          |       |        ||      | american_180_quad     
 threefold_path_zach |          |       |        ||      | rossi_gallery                   | 22_lr        || Rossi     | Gallery                   |
 threefold_path_zach |          |       |        ||      | ruger_standard                  | 22_lr        || Ruger     | Standard                  |
 --------------------|----------|-------|--------||------|---------------------------------|--------------||-----------|---------------------------|
+alien_intel         |          |       |        ||      | ai_fn_p90_rcp_120               |              || FN        | P90 "RCP-120"             |
+alien_intel         |          |       | --     ||      | ai_fr_famas_ar_34               |              || France    | FAMAS "AR-34"             |
+alien_intel         |          |       | --     ||      | ai_laptop_gun                   |              || --        | "Laptop Gun"              |
+alien_intel         |          |       | --     ||      | ai_neutron_bomb                 |              || --        | "Neutron Bomb"            |
+alien_intel         |          |       | --     ||      | ai_nsa_psychosis_gun            |              || --        | "Psychosis Gun"           |
+alien_intel         |          |       | --     ||      | ai_us_m16_a2_ar_53              |              || USA       | M16A2 "AR-53"             |
+alien_intel         |          |       | --     ||      | ai_walther_wa_2000              |              || Walther   | WA 2000 ""                |
+alien_intel         |          |       | --     || --   | ai_knife                        |              || --        |                           |
+alien_intel         |          |       | --     || --   | ai_proximity_mine               |              || --        |                           |
+alien_intel         |          |       | --     || --   | ai_remote_mine                  |              || --        |                           |
 alien_intel         |          |       | ARMADA ||      | ai_beretta_m934_ag_auto_9       |              || Beretta   | M93R-AG Auto 9 "MagSec 4" |
-alien_intel         |          |       | BUREAU ||      | ai_colt_double_eagle            |              || Colt      | Double Eagle "Falcon 2"   |
-alien_intel         |          |       | ASGARD ||      | ai_a_callisto                   |              || --        | Callisto NTG              |
-alien_intel         |          |       | SKEDAR ||      | ai_dar_slayer                   |              || --        | Skedar Slayer             |
-alien_intel         |          |       |  ||      | ai_carrington_rcp_120:fn_p90
-alien_intel         |          |       | ICEFED ||      | ai_cyclone |
-alien_intel         |          |       | --     ||      | ai_crossbow
-alien_intel         |          |       | ARMADA ||      | ai_dd_devastator
-alien_intel         |          |       | ARMADA ||      | ai_hk_xm8_dragon
-alien_intel         |          |       | ARMADA ||      | ai_colt_python_gold
-alien_intel         |          |       | ARMADA ||      | ai_colt_python
-alien_intel         |          |       | ARMADA ||      | ai_dd_rocket_launcher
-   ai_knife
-   ai_laptop_gun       |
-   ai_maia_farsight FarSight XR-20
-   ai_maia_phoenix
-   ai_neutron_bomb
-   ai_nsa_psychosis_gun
-   ai_proximity_mine
-   ai_remote_mine
-   ai_skedar_reaper
-   ai_sniper:Walther WA 2000
-   fr_famas_ar_34      |
-   skedar_mauler
-   us_m16_a2_ar_53     |
-
-alien_intel_classic | fn_p90              | FN P90 "RCP-45"
-alien_intel_classic | hk_mp5k_dmc         | H&K MP5K "D5K Deutsche" "DMC"
-alien_intel_classic | walther_ppk_pp9i    | Walther PPK "PP7 Special Issue" "PP9i"
-alien_intel_classic | tokarev_tt_33_cc_13 | Tokarev TT-33 "DD44 Dostovei" "CC13"
-alien_intel         |          |       |        ||      | steyr_tmp_cmp_150               |              || Steyr     | TMP "CMP-150"             |
+alien_intel         |          |       | ARMADA ||      | ai_colt_python                  |              || --        |                           |
+alien_intel         |          |       | ARMADA ||      | ai_colt_python_gold             |              || --        |                           |
+alien_intel         |          |       | ARMADA ||      | ai_dd_devastator                |              || --        |                           |
+alien_intel         |          |       | ARMADA ||      | ai_dd_rocket_launcher           |              || --        |                           |
+alien_intel         |          |       | ARMADA ||      | ai_hk_xm8_dragon                |              || --        |                           |
+alien_intel         |          |       | ASGARD ||      | ai_maiar_callisto               |              || --        | "Callisto NTG"            |
+alien_intel         |          |       | ASGARD ||      | ai_maiar_farsight               |              || --        | "FarSight XR-20"          |
+alien_intel         |          |       | ASGARD ||      | ai_maiar_phoenix                |              || --        |                           |
+alien_intel         |          |       | ICEFED ||      | ai_cyclone                      |              || --        |                           |
+alien_intel         |          |       | ICESPY ||      | ai_colt_double_eagle            |              || Colt      | Double Eagle "Falcon 2"   |
+alien_intel         |          |       | ICESPY ||      | ai_crossbow                     |              || --        |                           |
+alien_intel         |          |       | SKEDAR ||      | ai_skedar_mauler                |              || --        | "Skedar Mauler"           |
+alien_intel         |          |       | SKEDAR ||      | ai_skedar_reaper                |              || --        |                           |
+alien_intel         |          |       | SKEDAR ||      | ai_skedar_slayer                |              || --        | "Skedar Slayer"           |
+alien_intel         |          |       | ARMADA ||      | ai_steyr_tmp_cmp_150            |              || Steyr     | TMP "CMP-150"             |
+alien_intel_classic |          |       | --     ||      | ai_fn_p90                       |              || FN        | P90 "RCP-45"              |
+alien_intel_classic |          |       | --     ||      | ai_hk_mp5k_dmc                  |              || H&K       | MP5K "Deutsche"           |
+alien_intel_classic |          |       | --     ||      | ai_walther_ppk_pp9i             |              || Walther   | PPK "PP7"                 |
+alien_intel_classic |          |       | --     ||      | ai_tokarev_tt_33_cc_13          |              || Tokarev   | TT-33 "Dostovei"          |
 --------------------|----------|-------|--------||------|---------------------------------|--------------||-----------|---------------------------|
 cold_haul_buffalo   |          |       |        ||      |                                 |              ||           |                           |
 draugb_colony       |          |       |        ||      |                                 |              ||           |                           |

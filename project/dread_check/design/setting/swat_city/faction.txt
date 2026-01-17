@@ -12,9 +12,13 @@ TYPHON | mc_typhon     | endgame zombie virus nanobot sperm event             | 
 DELUGE | prison_below  | --                                                   | --
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 BUREAU | hq_bureau     | paranormal science missions                          | --
-EUNATO | hq_eunato     | diplomatic security missions                         | --
+ICEDEV | hq_icedev     | equipment division                                   | --
 ICEFED | hg_icefed     | secret service chain of command security BUREAU unit | --
 ICEMAL | hq_icemal     | schism-prone BUREAU unit protects MALICE secret      | --
+ICEOFF | hq_iceoff     | democratically elected officials                     | --
+ICESPY | hq_icespy     | carrington institute espionage division              | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+EUNATO | hq_eunato     | diplomatic security missions                         | --
 IZEPOL | hq_izepol     | EUNATO version of ICEPOL                             | --
 KGBGRU | hq_kgbgru     | sleeper cell anti EUNATO missions anti USARMY intel  | --
 SKEDAR | parliament    | alien imposters anti BUREAU missions                 | --
@@ -71,7 +75,7 @@ ZODIAC | --            | alliance 4 pan asia                                  | 
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 HEAVEN | --            | nomadic power 0 pan awol                             | --
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
-ISISIL | --            | nomadic power 1 isis and israel awol                 | --
+ISISIL | --            | nomadic power 1 isis and isil and israel awol        | --
 LEGION | --            | nomadic power 2 europe awol                          | --
 MARINE | --            | nomadic power 3 america awol                         | --
 WAGNER | --            | nomadic power 4 russia awol                          | --
@@ -83,32 +87,33 @@ BENGAL | --            | regional power  4 indea east and bangladesh          | 
 BERLIN | --            | regional power  5 europe central                     | --
 CAIRO2 | --            | regional power  6 africa north                       | --
 CONGO2 | --            | regional power  7 africa central                     | --
-DELHI2 | --            | regional power  8 india north                        | --
-DONBAS | --            | regional power  9 ukraine east                       | --
-DORADO | --            | regional power 10 south america 1                    | --
-DURBAN | --            | regional power 11 africa south                       | --
-HABASH | --            | regional power 12 africa south east                  | --
-HEBRON | --            | regional power 14 asia west palestine 1              | --
-JABURO | --            | regional power 15 south america 2                    | --
-JAIPUR | --            | regional power 16 india north west                   | --
-KHYBER | --            | regional power 18 asia west pakistan afghanistan     | --
-LISBON | --            | regional power 19 europe west portugal               | --
-LONDON | --            | regional power 20 europe west islands                | --
-LPGPKK | --            | regional power 21 asia west kurdistan                | --
+CYPRUS | --            | regional power  8 mediterranean cyprus               | --
+DELHI2 | --            | regional power  9 india north                        | --
+DONBAS | --            | regional power 10 ukraine east                       | --
+DORADO | --            | regional power 11 south america 1                    | --
+DURBAN | --            | regional power 12 africa south                       | --
+HABASH | --            | regional power 14 africa south east                  | --
+HEBRON | --            | regional power 15 asia west palestine 1              | --
+JABURO | --            | regional power 16 south america 2                    | --
+JAIPUR | --            | regional power 18 india north west                   | --
+KHYBER | --            | regional power 19 asia west pakistan afghanistan     | --
+LISBON | --            | regional power 20 europe west portugal               | --
+LONDON | --            | regional power 21 europe west islands                | --
+LPGPKK | --            | regional power 22 asia west kurdistan                | --
 LQAEDA | --            | regional power 23 asia west afghanistan              | --
 MADRID | --            | regional power 24 europe west spain                  | --
 MOSCOW | --            | regional power 25 russia west                        | --
-MUMBAI | --            | regional power 27 india south west                   | --
-NAMPHO | --            | regional power 26 korea                              | --
+MUMBAI | --            | regional power 26 india south west                   | --
+NAMPHO | --            | regional power 27 korea                              | --
 NANJIN | --            | regional power 28 china south                        | --
 ODESSA | --            | regional power 29 ukraine west                       | --
-RUSSIA | --            | regional power 32 russia east                        | --
+RUSSIA | --            | regional power 30 russia east                        | --
 SHIRAZ | --            | regional power 31 iran persia                        | --
 TAIWAN | --            | regional power 32 china fake                         | --
-TEHRAN | --            | regional power 32 iran                               | --
+TEHRAN | --            | regional power 33 iran                               | --
 TUAREG | --            | regional power 34 africa north west                  | --
 YANGON | --            | regional power 35 myanmar                            | --
-YISHUV | --            | regional power 36 asia wes palestine 2               | --
+YISHUV | --            | regional power 36 asia west palestine 2              | --
 ------------------------------------------------------------------------------------------------------------------------------------------
 OFFSCREEN SOLAR MILITARY POWERS
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -153,27 +158,27 @@ CORPSO | --            | corpso unpecified                                    | 
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 BUSTER | hq_buster     | mercenary strikebuster private military corporation  | --
 JAEGER | hq_jaeger     | emergency response mecha vehicle disaster team       | --
-LAWYER | courthouse    | --                                                   | --
+LAWYER | courthouse    | legal aid and apparatus                              | --
 PINKER | hq_pinker     | mercenary private eyes and mall cops camera watchers | --
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 AMAZON | warehouse     | corpso vehicle convoy missions                       | --
 ARMADA | munitions     | corpso research missions                             | --
 BOEING | airstrip      | corpso research missions                             | --
 CASINO | megacasino    | corpso gambling missions                             | --
-DARPA  | research      | corpso research missions                             | --
-FUNRA  | hq_funra     | fabrique nationale herstal x unreal                  | --
-GARDA  | parking       | corpso vehicle convoy missions                       | --
 GEHIRN | hq_gehirn     | advanced corpso research missions below              | --
 GUNDAM | hq_gundam     | advanced corpso research missions above              | --
-HONDA  | hq_honda      | engine factory                                       | --
+IDARPA | research      | corpso research missions                             | --
+IFUNRA | hq_funra      | fabrique nationale herstal x unreal                  | --
+IGARDA | parking       | corpso vehicle convoy missions                       | --
+IHONDA | hq_honda      | engine factory                                       | --
+ITESLA | garage        | corpso vehicle convoy missions                       | --
+IWAYMO | garage        | autotaxi service                                     | --
+IZYNGA | hq_zynga      | corpso gambling missions                             | --
+NESTLE | hq_nestle     | soylent food factory                                 | --
 NOCTUA | hq_noctua     | cooler factory                                       | --
 NVIDIA | hq_nvidia     | corpso missions                                      | --
 ORACLE | mainframe     | corpso missions minority report surveillence tech    | --
 ROBLOX | hq_roblox     | corpso combine trooper anti RUGRAT missions          | --
-TESLA  | garage        | corpso vehicle convoy missions                       | --
-WAYMO  | garage        | autotaxi service                                     | --
-NESTLE | hq_nestle     | soylent food factory                                 | --
-ZYNGA  | hq_zynga      | corpso gambling missions                             | --
 ------------------------------------------------------------------------------------------------------------------------------------------
 DISORGANIZED CRIME
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -270,18 +275,18 @@ NAME   | HOUSE         | DESCRIPTION                                          | 
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 ARMADA | shop_armada   | future guns and cyber implants                       | --
 POWDER | show_powder   | fashion and army guns                                | --
-TESLA  | shop_tesla    | cyberjank temporary implants                         | --
+ITESLA | shop_tesla    | cyberjank temporary implants                         | --
 USARMY | shop_usarmy   | future armor grenades and enlistment                 | --
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 CASINO | shop_casino   | public gambling rich                                 | --
-FOREX  | shop_forex    | pyramid scheme gambling club, CRYPTO front           | --
 HUSTLE | shop_hustle   | gig dispatch and job fair                            | --
-MENSA  | shop_mensa    | private gambing poor viq                             | --
+IFOREX | shop_forex    | pyramid scheme gambling club, CRYPTO front           | --
+IMENSA | shop_mensa    | private gambing poor viq                             | --
+IWONKA | shop_wonka    | candy shop                                           | --
+IZYNGA | shop_zynga    | public gambling free                                 | --
 ROBLOX | shop_roblox   | mandatory gambling field trip for INFANT             | --
 SPORTS | shop_sports   | public gambling poor                                 | --
 WARDOG | shop_wardog   | private gambling rich vip                            | --
-WONKA  | shop_wonka    | candy shop                                           | --
-ZYNGA  | shop_zynga    | public gambling free                                 | --
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 PETROL | block_petrol  | very expensive gasoline gated comunity for vip only  | --
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -317,21 +322,22 @@ USVOID | gasoline vehicles, lithium vehicles, plasma energy cell guns for employ
 AMAZON | lithium vehicles
 ARMADA | alien free energy cell hq, plasma energy cell guns for customers corpso customers and employees
 BOEING | gasoline vehicles
-DARPA  | cyberjank energy cell vehicles for employees, lithum energy cell prototype vehicles for corpso customers
-FUNRA  |
-GARDA  | nuclear vehicles
-GEHIRN | nuclear vehicles
 GUNDAM | nuclear vehicles
+GEHIRN | nuclear vehicles
 NVIDIA | lithium devices for customers, lithium vehicles for employees, lithium energy cell guns for employees
 ORACLE | lithium devices for customers, lithium vehicles for employees, lithium energy cell guns for employees
 PETROL | gasoline for customers
+------------------------------------------------------------------------------------------------------------------------------------------
 ROBLOX | one-off games for customers, lithium vehicles for employees, plasma energy cell guns for employees
-TESLA  | one-off vehicles for customers
-ZYNGA  | one-off games for customers
+IDARPA | cyberjank energy cell vehicles for employees, lithum energy cell prototype vehicles for corpso customers
+IFUNRA |
+IGARDA | nuclear vehicles
+ITESLA | one-off vehicles for customers
+IZYNGA | one-off games for customers
 ------------------------------------------------------------------------------------------------------------------------------------------
 SECURITY DOORS
 ------------------------------------------------------------------------------------------------------------------------------------------
-BUNKER | private emergency shelter for vips only
+BUNKER | private emergency shelter for vips only infrequent but available like a suburban bus stop
 INFANT | children only, illegal elsewhere
 IROYAL | vips only
 ITIZEN | citizen only public shops and gambling
@@ -348,9 +354,22 @@ IMEDIC | pharmacy
 ------------------------------------------------------------------------------------------------------------------------------------------
 NOTE
 ------------------------------------------------------------------------------------------------------------------------------------------
-PINKER - private investigators and mall cops
-BUSTER - strikebuster mercenary
-LAWYER - legal aid
-------------------------------------------------------------------------------------------------------------------------------------------
 - ICEMAL bureau unit that defends malice and site and site info, potential civil war subfaction with the rest of BUREAU, after warhammer 40k grey knights vs custodes in hypothetical terminus decree showdown
 - ICEMAL mod/surge wam gives infinite ammo and accelerated shield/condition regeneration
+
+
+         ____           ____
+        /????\         /????\
+       /ICEOFF\       /MALICE\
+      / ICEFED \_____/ ICEMAL \
+     /  BUREAU                 \
+    /USARMY USNAVY USVOID USWARC\/            CASiNO
+   /ICEPOL ARMADA BOEING GEHIRN GUNDAM ORACLE NVIDIA NOCTUA
+   \BUSTER LAWYER PINKER JAEGER USNASA IFUNRA ITESLA IZYNGA
+    \      IDOZER IMECHA IMEDIC IDARPA IHONDA IGARDA AMAZON
+     \     PAROLE ITIZEN GANGER HACKER
+      \    VERMIN    ____PSYCHO_CRASHO
+       \   INFANT   /
+        \  URCHIN  /
+         \ ORPHAN /
+          \DELUGE/
