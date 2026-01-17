@@ -151,6 +151,8 @@ NAME   | HOUSE         | DESCRIPTION                                          | 
 CORPSO | --            | corpso unpecified                                    | --
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 BUSTER | hq_buster     | mercenary strikebuster private military corporation  | --
+JAEGER | hq_jaeger     | emergency response mecha vehicle disaster team       | --
+LAWYER | courthouse    | --                                                   | --
 PINKER | hq_pinker     | mercenary private eyes and mall cops camera watchers | --
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 AMAZON | warehouse     | corpso vehicle convoy missions                       | --
@@ -158,17 +160,17 @@ ARMADA | munitions     | corpso research missions                             | 
 BOEING | airstrip      | corpso research missions                             | --
 CASINO | megacasino    | corpso gambling missions                             | --
 DARPA  | research      | corpso research missions                             | --
-FUNRA  | --            | fabrique nationale herstal x unreal                  | --
+FUNRA  | hq_funra     | fabrique nationale herstal x unreal                  | --
 GARDA  | parking       | corpso vehicle convoy missions                       | --
-GEHIRN | hq_gehirn     | corpso research missions below                       | --
-GUNDAM | hq_gundam     | corpso research missions above                       | --
-HONDA  | --            | engine factory                                       | --
-NOCTUA | --            | cooler factory                                       | --
-NVIDIA | factory       | corpso missions                                      | --
+GEHIRN | hq_gehirn     | advanced corpso research missions below              | --
+GUNDAM | hq_gundam     | advanced corpso research missions above              | --
+HONDA  | hq_honda      | engine factory                                       | --
+NOCTUA | hq_noctua     | cooler factory                                       | --
+NVIDIA | hq_nvidia     | corpso missions                                      | --
 ORACLE | mainframe     | corpso missions minority report surveillence tech    | --
 ROBLOX | hq_roblox     | corpso combine trooper anti RUGRAT missions          | --
 TESLA  | garage        | corpso vehicle convoy missions                       | --
-WAYMO  | --            | autotaxi service                                     | --
+WAYMO  | garage        | autotaxi service                                     | --
 NESTLE | hq_nestle     | soylent food factory                                 | --
 ZYNGA  | hq_zynga      | corpso gambling missions                             | --
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -271,7 +273,7 @@ TESLA  | shop_tesla    | cyberjank temporary implants                         | 
 USARMY | shop_usarmy   | future armor grenades and enlistment                 | --
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 CASINO | shop_casino   | public gambling rich                                 | --
-FOREX  | shop_forex    | pyramid scheme gambling membership club              | --
+FOREX  | shop_forex    | pyramid scheme gambling club, CRYPTO front           | --
 HUSTLE | shop_hustle   | gig dispatch and job fair                            | --
 MENSA  | shop_mensa    | private gambing poor viq                             | --
 ROBLOX | shop_roblox   | mandatory gambling field trip for INFANT             | --
@@ -315,6 +317,7 @@ AMAZON | lithium vehicles
 ARMADA | alien free energy cell hq, plasma energy cell guns for customers corpso customers and employees
 BOEING | gasoline vehicles
 DARPA  | cyberjank energy cell vehicles for employees, lithum energy cell prototype vehicles for corpso customers
+FUNRA  |
 GARDA  | nuclear vehicles
 GEHIRN | nuclear vehicles
 GUNDAM | nuclear vehicles
@@ -333,7 +336,7 @@ IROYAL | vips only
 ITIZEN | citizen only public shops and gambling
 GOVPOL | vips only
 ICEPOL | cops only
-WARBOY | child military squire gate, too large for adults
+WARBOY | child military squire gate, too small for adults
 ------------------------------------------------------------------------------------------------------------------------------------------
 BUSTER | security employees only, dispatch and armory
 PINKER | security employees only, admin and cameras
