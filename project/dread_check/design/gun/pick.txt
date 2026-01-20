@@ -12,7 +12,7 @@ swat_city           | pdw      |  20XX | GANGER || 2000 | kbp_pp_200            
 swat_city           | hmg      |  2XXX | USARMY || --   | usa_m2_bmg_bfa_plasma     | 50_bmg_plasma || USA       | M2 BMG BFA Plasma         |
 swat_city           | --       | ----- | --     || --   | --                        | --            || --        |                           |
 swat_city           | revolver |  20XX | BUREAU || 2009 | ruger_lcr_327             | 327_federal   || Ruger     | LCR (327 Federal)         |
-swat_city           | upmg     |  2XXX |        || 2170 | uscmc_m56a2               | 762_nato      || USCMC     | M56A2 Smart               |
+swat_city           |          |  2XXX |        || 2170 | uscmc_m56a2               | 762_nato      || USCMC     | M56A2 Smart               |
 swat_city           | pdw      |  20XX | HACKER || 2000 | sbd_cbj_ms                | 650_25mm_cbj  ||           | SBD CBJ-MS                |
 swat_city           | saw      |  19XX | ICEPOL || 1994 | colt_lmg                  | 556_nato      || Colt      | Colt LMG                  |
 swat_city           | smg      |  19XX | ICEFED || 1982 | colt_633_doe              | 9mm           || Colt      | Model 633 DOE             |
@@ -56,6 +56,17 @@ alien_intel         |          |       | ICESPY ||      | ai_crossbow           
 alien_intel         |          |       | SKEDAR ||      | ai_skedar_mauler          | unique        || --        | "Skedar Mauler"           |
 alien_intel         |          |       | SKEDAR ||      | ai_skedar_reaper          | unique        || --        | "Skedar Reaper"           |
 alien_intel         |          |       | SKEDAR ||      | ai_skedar_slayer          | unique        || --        | "Skedar Slayer"           |
+--------------------|----------|-------|--------||------|---------------------------|---------------||-----------|---------------------------|
+alien_intel_x       |          |  2XXX |        || 2170 | uscmc_m56_a               | 762_nato      || USCMC     | M56A2 Smart               |
+alien_intel_x       |          |  2XXX |        || --   | uscmc_m41_ae2             |               || USCMC     | M41AE2 Heavy Pulse        |
+alien_intel_x       |          |  2XXX |        || --   | uscmc_m41_a_m2            |               || USCMC     | M41A Pulse MK2            |
+alien_intel_x       |          |  2XXX |        || --   | uscmc_m41_a2              |               || USCMC     | M41A2 Pulse               |
+alien_intel_x       |          |  2XXX |        || --   | uscmc_m41_a3              |               || USCMC     | M41A3 Burst               |
+alien_intel_x       |          |  2XXX |        || --   | uscmc_m42_a2_scout        |               || USCMC     | M42A2 Scout               |
+alien_intel_x       |          |  2XXX |        || --   | uscmc_m41_a_s2            |               || USCMC     | M41A/2 Pulse              |
+alien_intel_x       |          |  2XXX |        || --   | uscmc_m41_e               |               || USCMC     | M41E Pulse                |
+alien_intel_x       |          |  2XXX |        || --   | uscmc_m41_e3              |               || USCMC     | M41E3 Heavy Pulse         |
+alien_intel_x       |          |  2XXX |        || --   | uscmc_m41_e4              |               || USCMC     | M41E4 Heavy Pulse         |
 --------------------|----------|-------|--------||------|---------------------------|---------------||-----------|---------------------------|
 alien_intel_classic |          |       | --     ||      | ai_fn_p90                 |               || FN        | P90 "RCP-45"              |
 alien_intel_classic |          |       | --     ||      | ai_hk_mp5k_dmc            |               || H&K       | MP5K "Deutsche"           |
