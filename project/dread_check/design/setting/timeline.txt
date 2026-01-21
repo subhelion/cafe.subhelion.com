@@ -1,4 +1,4 @@
-YEAR  | CAMPAIGN ADVENTURE  | STRATEGY ADVENTURE  | SURVIVAL ADVENTURE  | MYSTERY ADVENTURE   | STRATEGY ACTION     | MYSTERY ACTION      | ANIMAL ADVENTURE    |
+ERA   | CAMPAIGN ADVENTURE  | STRATEGY ADVENTURE  | SURVIVAL ADVENTURE  | MYSTERY ADVENTURE   | STRATEGY ACTION     | MYSTERY ACTION      | ANIMAL ADVENTURE    |
 ------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
 0XXXX | DRAUGB DRAUGB       | RED CRY A           | GATE QUAKE 0        | --                  | --                  | --                  | --
  0XXX | --                  | UNTITLED 0XXX       | --                  | --                  | --                  | --                  | --
