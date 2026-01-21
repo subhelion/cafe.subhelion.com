@@ -160,6 +160,7 @@ BUSTER | hq_buster     | mercenary strikebuster private military corporation  | 
 JAEGER | hq_jaeger     | emergency response mecha vehicle disaster team       | --
 LAWYER | courthouse    | legal aid and apparatus                              | --
 PINKER | hq_pinker     | mercenary private eyes and mall cops camera watchers | --
+MARKER | --            | low-level security gig paintball tags shoplifters    |
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 AMAZON | warehouse     | corpso vehicle convoy missions                       | --
 ARMADA | munitions     | corpso research missions                             | --
@@ -192,7 +193,7 @@ CHITIN | road_cargo    | cyber gang  1 insects                                | 
 CRASHO | road_crash    | cyber gang  2 amnesia                                | --
 CRYPTO | road_limo     | cyber gang  3 pyramid scheme gang for losers         | --
 PSYCHO | road_truck    | cyber gang  4 evil                                   | --
-REDCRY | --            | anti dinosaur volunteer expeditionary force          | --
+REDCRY | --            | anti dinosaur volunteer expeditionary force veteran  | --
 ROCKET | road_van      | cyber gang  5 animals                                | --
 RUGRAT | sewer         | cyber gang  6 child soldier urchin gang              | Karlsplatz Overflow Chamber, Vienna
 SCHIZO | road_sedan    | cyber gang  7 good                                   | --
@@ -207,6 +208,11 @@ CIVILIAN AND OTHER
 NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 ITIZEN | ruins         | civilian                                             | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+WORKER
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+FARMER
+GROCER
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 IDOZER | construction  | civilian construction contractors                    | --
 IHOUSE | megacasino    | civilian wage slave checkout clerk                   | --
@@ -254,6 +260,7 @@ VIRTUAL FACTIONS
 ANTIFA | police mission target
 BOUNTY | bounty mission target
 CONVOY | convoy mission target
+DANGER | unknown danger
 GANGER | ethnic gang member unknown affiliation
 HACKER | cyber gang member unknown affiliation
 NONONO | unknown
