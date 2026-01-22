@@ -4,9 +4,9 @@ ERA   | CAMPAIGN ADVENTURE  | STRATEGY ADVENTURE  | SURVIVAL ADVENTURE  | MYSTER
  0XXX | --                  | UNTITLED 0XXX       | --                  | --                  | --                  | --                  | --
  1XXX | --                  | UNTITLED 1XXX       | --                  | BLOOD FLUSH 0       | --                  | --                  | --
  19XX | DRAUGB HARBOR       | HOWLING COMMANDOS   | GATE QUAKE          | ALIEN INTEL CLASSIC | HORSE WAR 0         | BLUE MONSOON        | --
- 20XX | DRAUGB PROLOGUE     | HOWLING COMMANDOS 2 | THREEFOLD PATH      | BLOOD FLUSH         | --                  | --                  | --
- 21XX | DRAUGB COLONY       | RED CRY B           | SWAT CITY           | ALIEN INTEL         | HORSE WAR           | --                  | CONCRETE JUNGLE
- 2XXX | DRAUGB FRONTIER     | --                  | SWAT CITY X         | BLOOD FLUSH X       | --                  | --                  | --
- 3XXX | --                  | --                  | --                  | ALIEN INTEL X       | HORSE WAR X         | --                  | CONCRETE JUNGLE X
+ 20XX | DRAUGB PROLOGUE     | HOWLING COMMANDOS 2 | --                  | BLOOD FLUSH         | --                  | --                  | --
+ 21XX | DRAUGB COLONY       | --                  | THREEFOLD PATH      | ALIEN INTEL         | HORSE WAR           | --                  | CONCRETE JUNGLE
+ 2XXX | DRAUGB FRONTIER     | RED CRY B           | SWAT CITY           | BLOOD FLUSH X       | --                  | --                  | --
+ 3XXX | --                  | --                  | SWAT CITY X         | ALIEN INTEL X       | HORSE WAR X         | --                  | CONCRETE JUNGLE X
  4XXX | DRAUGB WASTES       | --                  | GATE QUAKE X        | --                  | COLD HAUL BUFFALO   | --                  | --
 XXXXX | DRAUGB TOWER        | --                  | --                  | --                  | --                  | --                  | --

@@ -1,0 +1,12 @@
+ERA   | WHEN         | CHAPTER
+------|--------------|-------------------------------------------
+0XXXX | deep past    | draugb_draugb, red_cry_a
+ 0XXX | far past 1   | untitled_0XXX
+ 1XXX | far past 2   | untitled_1XXX
+ 19XX | near past    | blue_monsoon, draugb_harbor, howling_commandos
+ 20XX | present      | draugb_prologue, howling_commandos_2
+ 21XX | near future  | draugb_colony, threefold_path
+ 2XXX | far future 1 | druagb_frontier, swat_city, red_cry_b
+ 3XXX | far future 2 | swat_city_x
+ 4XXX | far future 3 | draugb_wastes
+XXXXX | deep future  | draugb_tower
