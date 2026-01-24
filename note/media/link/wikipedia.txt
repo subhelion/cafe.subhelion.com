@@ -1,3 +1,6 @@
+-------------------------------------------------------------------------------------------------------------------------------
+TYPE  | YEAR | TITLE                                   | LINK
+------|------|-----------------------------------------|-----------------------------------------------------------------------
 anime | 1973 | Fantastic Planet                        | https://en.wikipedia.org/wiki/Fantastic_Planet
 anime | 1982 | Blue Gale Xabungle                      | https://en.wikipedia.org/wiki/Combat_Mecha_Xabungle
 anime | 1982 | Gandahar                                | https://en.wikipedia.org/wiki/Gandahar_(film)
@@ -220,3 +223,26 @@ tv    | 2021 | Wheel of Time                           | https://en.wikipedia.or
 tv    | 2022 | Surface                                 | https://en.wikipedia.org/wiki/Surface_(2022_TV_series)
 tv    | 2024 | Fallout (TV)                            | https://en.wikipedia.org/wiki/Fallout_(American_TV_series)
 tv    | 2024 | Time Bandits                            | https://en.wikipedia.org/wiki/Time_Bandits_(TV_series)
+-------------------------------------------------------------------------------------------------------------------------------
+TYPE  | YEAR | KEY                 | LINK
+------|------|---------------------|-------------------------------------------------------------------------------------------
+game  | 2023 | dredge              | http://en.wikipedia.org/wiki/Dredge_(video_game)
+game  | 2023 | hyenas              | http://en.wikipedia.org/wiki/Hyenas_(video_game)
+game  | 2014 | naissancee          | http://en.wikipedia.org/wiki/NaissanceE
+game  | 2021 | cruelty_squad       | http://en.wikipedia.org/wiki/Cruelty_Squad
+game  | 2021 | returnal            | http://en.wikipedia.org/wiki/Returnal
+game  | 2020 | deep_rock_galactic  | http://en.wikipedia.org/wiki/Deep_Rock_Galactic
+game  | 2020 | kentucky_route_zero | http://en.wikipedia.org/wiki/Kentucky_Route_Zero
+game  | 2019 | outer_wilds         | http://en.wikipedia.org/wiki/Outer_Wilds
+game  | 2019 | manifold_garden     | http://en.wikipedia.org/wiki/Manifold_Garden
+game  | 2017 | echo                | http://en.wikipedia.org/wiki/Echo_(2017_video_game)
+game  | 2017 | everything          | http://en.wikipedia.org/wiki/Everything_(video_game)
+game  | 2017 | rain_world          | http://en.wikipedia.org/wiki/Rain_World
+game  | 2017 | scanner_sombre      | http://en.wikipedia.org/wiki/Scanner_Sombre
+game  | 2016 | the_witness         | http://en.wikipedia.org/wiki/The_Witness_(2016_video_game)
+game  | 2014 | ether_one           | http://en.wikipedia.org/wiki/Ether_One
+game  | 2013 | kairo               | http://en.wikipedia.org/wiki/Kairo_(video_game)
+game  | 2013 | starseed_pilgrim    | http://en.wikipedia.org/wiki/Starseed_Pilgrim
+game  | 2012 | dear_esther         | http://en.wikipedia.org/wiki/Dear_Esther
+game  | 2005 | silent_hunter_3     | http://en.wikipedia.org/wiki/Silent_Hunter_III
+game  | 1988 | netrek              | http://en.wikipedia.org/wiki/Netrek
