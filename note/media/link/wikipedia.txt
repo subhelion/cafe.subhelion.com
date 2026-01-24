@@ -29,6 +29,7 @@ anime | 2021 | Ranking of Kings                        | https://en.wikipedia.or
 anime | 2023 | Scavengers Reign                        | https://en.wikipedia.org/wiki/Scavengers_Reign
 anime | 2024 | Centuria                                | https://en.wikipedia.org/wiki/Centuria_(manga)
 anime | 2024 | DeDeDeDe                                | https://en.wikipedia.org/wiki/Dead_Dead_Demon%27s_Dededede_Destruction
+book  | 1970 | Tau Zero                                | https://en.wikipedia.org/wiki/Tau_Zero
 book  | 2007 | Unwind                                  | https://en.wikipedia.org/wiki/Unwind_(novel)
 book  | 2011 | The Martian                             | https://en.wikipedia.org/wiki/The_Martian_(Weir_novel)
 book  | 2016 | Dark Matter                             | https://en.wikipedia.org/wiki/Dark_Matter_(Crouch_novel)
