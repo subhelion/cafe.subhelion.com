@@ -3,9 +3,6 @@ PICK - HORSE WAR, HORSE WAR 0, HORSE WAR X
 -----------------------------------------------------------------------------------------------
 SETTING           | TYPE  | YEAR | TITLE
 ------------------|-------|------|-------------------------------------------------------------
-horse_war         | anime | 1989 | Patlabor: The Movie
-horse_war         | anime | 1993 | Patlabor 2: The Movie
-horse_war         | anime | 1995 | Memories - 2 Stink Bomb (Short)
 horse_war_0       | game  | 2000 | Ring of Red
 horse_war_0       | game  | 2001 | Return to Castle Wolfenstein
 horse_war_0       | game  | 2003 | Enemy Territory: Wolfenstein
@@ -15,6 +12,11 @@ horse_war_0       | game  | 2015 | Wolfenstein: The Old Blood
 horse_war_0       | game  | 2017 | Wolfenstein II: The New Colossus
 horse_war_0       | game  | 2019 | Wolfenstein: Cyberpilot
 horse_war_0       | game  | 2019 | Wolfenstein: Youngblood
+------------------|-------|------|-------------------------------------------------------------
+horse_war         | anime | 1989 | Patlabor: The Movie
+horse_war         | anime | 1993 | Patlabor 2: The Movie
+horse_war         | anime | 1995 | Memories - 2 Stink Bomb (Short)
+------------------|-------|------|-------------------------------------------------------------
 horse_war_x       | anime | 1981 | Mobile Suit Gundam I
 horse_war_x       | anime | 1982 | Blue Gale Xabungle
 horse_war_x       | anime | 1988 | Gunbuster

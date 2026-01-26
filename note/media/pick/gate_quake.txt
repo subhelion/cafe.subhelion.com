@@ -7,6 +7,7 @@ gate_quake        | game  | 2020 | Black Mesa
 gate_quake        | game  | 1998 | Half Life
 gate_quake        | game  | 1999 | Half Life: Opposing Force
 gate_quake        | game  | 2001 | Half Life: Blue Shift
+------------------|-------|------|-------------------------------------------------------------
 gate_quake_x      | film  | 1986 | Aliens
 gate_quake_x      | game  | 1993 | Doom
 gate_quake_x      | game  | 1994 | Doom II
