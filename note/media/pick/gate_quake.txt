@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------------------------
+PICK - GATE QUAKE, GATE QUAKE X
+-----------------------------------------------------------------------------------------------
+SETTING           | TYPE  | YEAR | TITLE
+------------------|-------|------|-------------------------------------------------------------
+gate_quake        | game  | 2020 | Black Mesa
+gate_quake        | game  | 1998 | Half Life
+gate_quake        | game  | 1999 | Half Life: Opposing Force
+gate_quake        | game  | 2001 | Half Life: Blue Shift
+gate_quake_x      | film  | 1986 | Aliens
+gate_quake_x      | game  | 1993 | Doom
+gate_quake_x      | game  | 1994 | Doom II
+gate_quake_x      | game  | 1996 | Quake I
+gate_quake_x      | game  | 1997 | Quake I - Dissolution of Eternity
+gate_quake_x      | game  | 1997 | Quake I - Scourge of Armagon
+gate_quake_x      | game  | 1997 | Quake II
+gate_quake_x      | game  | 1998 | Quake II - Ground Zero
+gate_quake_x      | game  | 1998 | Quake II - The Reckoning
+gate_quake_x      | game  | 2004 | Doom 3
+gate_quake_x      | game  | 2007 | Enemy Territory: Quake Wars
+gate_quake_x      | game  | 2016 | Quake I - Dimension of the Past
+gate_quake_x      | game  | 2017 | Quake Champions
+gate_quake_x      | game  | 2021 | Quake I - Dimension of the Machine
+gate_quake_x      | game  | 2023 | Quake II - Call of the Machine

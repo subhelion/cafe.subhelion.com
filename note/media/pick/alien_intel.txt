@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------
+PICK - ALIEN INTEL
+---------------------------------------------------------------------------
+TYPE  | YEAR | TITLE
+------|------|-------------------------------------------------------------
+book  | 2000 | Perfect Dark: Graduation Day
+book  | 2000 | Perfect Dark: Hunting Season
+book  | 2005 | Perfect Dark: Hong Kong Sunrise
+comic | 2005 | Perfect Dark: Zero (Comic)
+comic | 2007 | Perfect Dark: Janus' Tears
+film  | 1971 | The Andromeda Strain
+film  | 1982 | E.T. the Extra Terrestrial
+film  | 2002 | Lilo & Stitch
+film  | 2005 | Perfect Dark: Initial Vector
+film  | 2007 | Perfect Dark: Second Front
+game  | 1997 | GoldenEye 007
+game  | 2000 | Perfect Dark
+game  | 2000 | Perfect Dark (GBA)
+game  | 2001 | Velvet Dark (Cancelled)
+game  | 2002 | TimeSplitters 2 - Mission 1 - Siberia
+game  | 2005 | Perfect Dark: Zero
+game  | 2010 | Perfect Dark (2010)
+game  | 2025 | Perfect Dark: Initiative (Cancelled)
+---------------------------------------------------------------------------
+PICK - ALIEN INTEL X
+---------------------------------------------------------------------------
+TYPE  | YEAR | TITLE
+------|------|-------------------------------------------------------------
+film  | 1957 | The Monolith Monsters
+film  | 1979 | Alien
+film  | 1987 | Alien: Resurrection
+game  | 1999 | Command & Conquer: Tiberian Sun
+game  | 2002 | Command & Conquer: Renegade
+game  | 2014 | Alien: Isolation
+game  | 2025 | Tiberian Sun: Reborn

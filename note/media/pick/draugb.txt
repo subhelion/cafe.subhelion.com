@@ -1,0 +1,281 @@
+-----------------------------------------------------------------------------------------------
+PICK - DRAUGB 0 PROLOGUE
+-----------------------------------------------------------------------------------------------
+SETTING           | TYPE  | YEAR | TITLE
+------------------|-------|------|-------------------------------------------------------------
+draugb_prologue   | film  | 2001 | Evolution
+-----------------------------------------------------------------------------------------------
+PICK - DRAUGB 1 HARBOR
+-----------------------------------------------------------------------------------------------
+SETTING           | TYPE  | YEAR | TITLE
+------------------|-------|------|-------------------------------------------------------------
+draugb_harbor     | film  | 1978 | Warlords of Atlantis
+draugb_harbor     | film  | 1989 | DeepStar Six
+draugb_harbor     | film  | 1989 | The Abyss
+draugb_harbor     | film  | 1995 | Waterworld
+draugb_harbor     | film  | 1997 | Insomnia
+draugb_harbor     | film  | 1998 | Sphere
+draugb_harbor     | film  | 1998 | The Faculty
+draugb_harbor     | film  | 1998 | The Faculty
+draugb_harbor     | film  | 1999 | Virus
+draugb_harbor     | film  | 2001 | Dagon
+draugb_harbor     | film  | 2011 | Mermaids: The Body Found
+draugb_harbor     | film  | 2013 | Megalodon: The Monster Shark Lives
+draugb_harbor     | film  | 2017 | Cold Skin
+draugb_harbor     | film  | 2018 | Annihilation
+draugb_harbor     | film  | 2018 | The Meg
+draugb_harbor     | film  | 2019 | The Lighthouse
+draugb_harbor     | film  | 2020 | Underwater
+draugb_harbor     | game  | 2008 | Call of Duty: World at War
+draugb_harbor     | tv    | 2017 | Oats Studio - Volume 1 - Rakka
+-----------------------------------------------------------------------------------------------
+PICK - DRAUGB 2 COLONY
+-----------------------------------------------------------------------------------------------
+SETTING           | TYPE  | YEAR | TITLE
+------------------|-------|------|-------------------------------------------------------------
+draugb_colony     | film  | 2019 | Ad Astra
+-----------------------------------------------------------------------------------------------
+PICK - DRAUGB 3 FRONTIER
+-----------------------------------------------------------------------------------------------
+SETTING           | TYPE  | YEAR | TITLE
+------------------|-------|------|-------------------------------------------------------------
+draugb_frontier   | anime | 1992 | FernGully: The Last Rainforest
+draugb_frontier   | film  | 2002 | Dog Soldiers
+-----------------------------------------------------------------------------------------------
+PICK - DRAUGB 4 WASTES
+-----------------------------------------------------------------------------------------------
+SETTING           | TYPE  | YEAR | TITLE
+------------------|-------|------|-------------------------------------------------------------
+draugb_wastes     | film  | 1988 | On the Silver Globe
+draugb_wastes     | film  | 2011 | Source Code
+-----------------------------------------------------------------------------------------------
+PICK - DRAUGB 5 TOWER
+-----------------------------------------------------------------------------------------------
+SETTING           | TYPE  | YEAR | TITLE
+------------------|-------|------|-------------------------------------------------------------
+draugb_tower      | anime | 2017 | BLAME!
+draugb            | film  | 2021 | Mad God
+draugb_tower      | anime | 1985 | Angel's Egg
+draugb_tower      | anime | 1995 | Memories - 1 Magnetic Rose (Short)
+-----------------------------------------------------------------------------------------------
+PICK - DRAUGB 6 DRAUGB
+-----------------------------------------------------------------------------------------------
+SETTING           | TYPE  | YEAR | TITLE
+------------------|-------|------|-------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------
+PICK - DRAUGB UNSORTED
+-----------------------------------------------------------------------------------------------
+SETTING           | TYPE  | YEAR | TITLE
+------------------|-------|------|-------------------------------------------------------------
+draugb            | film  | 1979 | Stalker
+draugb            | anime | 1998 | Kirikou and the Sorceress
+draugb            | anime | 2001 | Atlantis: The Lost Empire
+draugb            | anime | 2001 | Final Fantasy: The Spirits Within
+draugb            | anime | 2003 | The Animatrix
+draugb            | anime | 2003 | The Animatrix - 1 The Second Renaissance, Part I
+draugb            | anime | 2003 | The Animatrix - 2 The Second Renaissance, Part II
+draugb            | anime | 2003 | The Animatrix - 3 Kid's Story
+draugb            | anime | 2003 | The Animatrix - 4 Program
+draugb            | anime | 2003 | The Animatrix - 5 World Record
+draugb            | anime | 2003 | The Animatrix - 6 Beyond
+draugb            | anime | 2003 | The Animatrix - 7 A Detective Story
+draugb            | anime | 2003 | The Animatrix - 8 Matriculated
+draugb            | anime | 2003 | The Animatrix - 9 Final Flight of the Osiris
+draugb            | anime | 2004 | Gunbuster 2: Diebuster
+draugb            | anime | 2009 | The Secret of Kells
+draugb            | anime | 2019 | Ling Cage
+draugb            | anime | 2019 | Love, Death & Robots: Beyond the Aquila Rift
+draugb            | anime | 2025 | War of Lights (Short)
+draugb            | book  | 2007 | Unwind
+draugb            | book  | 2021 | Project Hail Mary
+draugb            | film  | 1958 | Invention for Destruction
+draugb            | film  | 1964 | Red Desert
+draugb            | film  | 1967 | Viy
+draugb            | film  | 1977 | Alternative 3
+draugb            | film  | 1977 | The Gauntlet
+draugb            | film  | 1980 | The Fog
+draugb            | film  | 1981 | Outland
+draugb            | film  | 1982 | The Thing
+draugb            | film  | 1983 | Videodrome
+draugb            | film  | 1984 | Dune
+draugb            | film  | 1984 | Nausicaä of the Valley of the Wind
+draugb            | film  | 1984 | Threads
+draugb            | film  | 1985 | Come and See
+draugb            | film  | 1985 | Lifeforce
+draugb            | film  | 1987 | Walker
+draugb            | film  | 1988 | Oil Gobblers
+draugb            | film  | 1988 | They Live
+draugb            | film  | 1989 | Elephant
+draugb            | film  | 1989 | Tetsuo: The Iron Man
+draugb            | film  | 1990 | Home Alone
+draugb            | film  | 1990 | Jacob’s Ladder
+draugb            | film  | 1990 | Tremors
+draugb            | film  | 1992 | Tetsuo II: Body Hammer
+draugb            | film  | 1994 | In the Mouth of Madness
+draugb            | film  | 1994 | Timecop
+draugb            | film  | 1995 | 12 Monkeys
+draugb            | film  | 1995 | Gargoyles the Movie
+draugb            | film  | 1995 | Mechanical Violator Hakaider
+draugb            | film  | 1995 | Se7en
+draugb            | film  | 1995 | Tales from the Crypt: Demon Knight
+draugb            | film  | 1995 | Twelve Monkeys
+draugb            | film  | 1996 | Escape from L.A.
+draugb            | film  | 1996 | Star Trek: First Contact
+draugb            | film  | 1997 | Event Horizon
+draugb            | film  | 1997 | Mimic
+draugb            | film  | 1998 | Godzilla
+draugb            | film  | 1999 | The 13th Warrior
+draugb            | film  | 2000 | Pitch Black
+draugb            | film  | 2001 | Avalon
+draugb            | film  | 2001 | Dagon
+draugb            | film  | 2001 | Ghosts of Mars
+draugb            | film  | 2001 | Tremors 3: Back to Perfection
+draugb            | film  | 2002 | 28 Days Later
+draugb            | film  | 2002 | Resident Evil
+draugb            | film  | 2003 | The Matrix Reloaded
+draugb            | film  | 2003 | The Matrix Revolutions
+draugb            | film  | 2004 | AVP: Alien vs. Predator
+draugb            | film  | 2004 | Dawn of the Dead
+draugb            | film  | 2004 | Immortal
+draugb            | film  | 2004 | R-Point
+draugb            | film  | 2004 | Resident Evil: Apocalypse
+draugb            | film  | 2004 | The Chronicles of Riddick
+draugb            | film  | 2004 | The Matrix Revolutions
+draugb            | film  | 2005 | The Cave
+draugb            | film  | 2005 | The Descent
+draugb            | film  | 2005 | The Fog (2005)
+draugb            | film  | 2007 | Eden Log
+draugb            | film  | 2007 | I Am Legend
+draugb            | film  | 2007 | Resident Evil: Extinction
+draugb            | film  | 2007 | Sunshine
+draugb            | film  | 2007 | The Mist
+draugb            | film  | 2008 | Dante 01
+draugb            | film  | 2008 | Doomsday
+draugb            | film  | 2008 | Tokyo Gore Police
+draugb            | film  | 2009 | District 9
+draugb            | film  | 2009 | Gamer
+draugb            | film  | 2009 | Moon
+draugb            | film  | 2009 | Pandorum
+draugb            | film  | 2009 | Tetsuo: The Bullet Man
+draugb            | film  | 2012 | Dead Mine
+draugb            | film  | 2013 | Riddick
+draugb            | film  | 2014 | Garm Wars: The Last Druid
+draugb            | film  | 2014 | Over the Garden Wall
+draugb            | film  | 2016 | Arrival
+draugb            | film  | 2016 | Shin Godzilla
+draugb            | film  | 2017 | Alien: Covenant
+draugb            | film  | 2017 | Attraction
+draugb            | film  | 2017 | The Mummy
+draugb            | film  | 2018 | Prospect
+draugb            | film  | 2019 | The Blackout
+draugb            | film  | 2020 | The Empty Man
+draugb            | film  | 2021 | Dune
+draugb            | film  | 2021 | The Matrix Resurrections
+draugb            | film  | 2022 | All Quiet on the Western Front
+draugb            | film  | 2022 | Nope
+draugb            | film  | 2023 | Boy Kills World
+draugb            | film  | 2024 | Monkey Man
+draugb            | film  | 2024 | Sixty Minutes
+draugb            | film  | 2025 | 28 Years Later
+draugb            | film  | 2026 | 28 Years Later: The Bone Temple
+draugb            | game  |      | Roblox - Entry Point
+draugb            | game  |      | Roblox - Low Octane
+draugb            | game  |      | Roblox - Realistic Boiling Water Reacter (RBWR)
+draugb            | game  |      | Roblox - Traumatic Descent
+draugb            | game  | ---- | In Hope Voiden
+draugb            | game  | ---- | Ironclad
+draugb            | game  | ---- | Post Apocalypse Courier Service
+draugb            | game  | ---- | Prospice
+draugb            | game  | 1992 | Wolfenstein 3D
+draugb            | game  | 1994 | Marathon
+draugb            | game  | 1995 | Command & Conquer
+draugb            | game  | 1995 | Marathon 2: Durandal
+draugb            | game  | 1996 | Command & Conquer: Red Alert
+draugb            | game  | 1996 | Marathon Infinity
+draugb            | game  | 1996 | ZPC; Zero Population Count
+draugb            | game  | 1997 | Chasm: The Rift
+draugb            | game  | 1997 | GoldenEye 007
+draugb            | game  | 2004 | Half Life 2
+draugb            | game  | 2017 | Entropy: Zero
+draugb            | game  | 2022 | Entropy: Zero  2
+draugb            | game  | 2000 | Command & Conquer: Red Alert 2
+draugb            | game  | 2000 | Soldier of Fortune
+draugb            | game  | 2001 | Halo: Combat Evolved
+draugb            | game  | 2001 | Red Faction
+draugb            | game  | 2002 | Command & Conquer: Renegade
+draugb            | game  | 2002 | Half Life: The Specialists Mod
+draugb            | game  | 2002 | Red Faction II
+draugb            | game  | 2004 | Halo 2
+draugb            | game  | 2004 | Metal Gear Solid 3: Snake Eater
+draugb            | game  | 2005 | Resident Evil 4
+draugb            | game  | 2007 | Halo 3
+draugb            | game  | 2007 | Hard Time
+draugb            | game  | 2007 | Medal of Honor: Airborne
+draugb            | game  | 2008 | Dead Space
+draugb            | game  | 2008 | Fallout 3
+draugb            | game  | 2009 | Left 4 Dead 2
+draugb            | game  | 2009 | Shin Megami Tensei: Strange Journey
+draugb            | game  | 2010 | Fallout: New Vegas
+draugb            | game  | 2010 | Lost Planet 2
+draugb            | game  | 2010 | MAG
+draugb            | game  | 2011 | Red Faction: Armageddon
+draugb            | game  | 2011 | Red Faction: Battlegrounds
+draugb            | game  | 2012 | Natural Selection 2
+draugb            | game  | 2013 | Arma II: DayZ Mod
+draugb            | game  | 2014 | Sir, You Are Being Hunted
+draugb            | game  | 2014 | Spintires
+draugb            | game  | 2015 | Sylvio
+draugb            | game  | 2016 | Doom (2016)
+draugb            | game  | 2017 | MudRunner
+draugb            | game  | 2017 | Pavlov
+draugb            | game  | 2017 | PUBG: Battlegrounds
+draugb            | game  | 2017 | SCP: Secret Laboratory
+draugb            | game  | 2018 | Generation Zero
+draugb            | game  | 2018 | Subnautica
+draugb            | game  | 2018 | The Forest
+draugb            | game  | 2019 | Void Bastards
+draugb            | game  | 2020 | Black Mesa
+draugb            | game  | 2020 | G String
+draugb            | game  | 2020 | Hardspace: Shipbreaker
+draugb            | game  | 2020 | Iron Harvest
+draugb            | game  | 2020 | Receiver 2
+draugb            | game  | 2021 | Outer Wilds: Echoes of the Eye
+draugb            | game  | 2021 | Subnautica: Below Zero
+draugb            | game  | 2022 | Arma Reforger
+draugb            | game  | 2022 | Babbdi
+draugb            | game  | 2022 | Selaco
+draugb            | game  | 2022 | Signalis
+draugb            | game  | 2023 | Hrot
+draugb            | game  | 2023 | Lethal Company
+draugb            | game  | 2023 | Mik
+draugb            | game  | 2024 | B.C. Piezophile
+draugb            | game  | 2024 | Forever Winter
+draugb            | game  | 2024 | Metal Garden
+draugb            | game  | 2024 | Mohrta
+draugb            | game  | 2024 | Nuclear Nightmare
+draugb            | game  | 2024 | Project Silverfish
+draugb            | game  | 2024 | R.E.P.O.
+draugb            | game  | 2025 | Abiotic Factor
+draugb            | game  | 2025 | Ambrosia Sky
+draugb            | game  | 2025 | Atomfall
+draugb            | game  | 2025 | Cronos: New Dawn
+draugb            | game  | 2025 | Deathground
+draugb            | game  | 2025 | Doom: The Dark Ages
+draugb            | game  | 2025 | Mimesis
+draugb            | game  | 2025 | Motorslice
+draugb            | game  | 2025 | Pigface
+draugb            | game  | 2025 | Psycho Patrol R
+draugb            | game  | 2025 | Routine
+draugb            | game  | 2025 | TimeSplitters: Rewind
+draugb            | game  | 2025 | White Knuckle
+draugb            | game  | 2026 | Klostyn
+draugb            | game  | 2026 | Marathon (2026)
+draugb            | game  | 2026 | Ontos
+draugb            | game  | 2026 | Pragmata
+draugb            | game  | 2026 | Subnautica 2
+draugb            | game  | 2027 | No Walls in Heaven
+draugb            | tv    | 2007 | Primeval (TV)
+draugb            | tv    | 2020 | Raised by Wolves
+draugb            | tv    | 2021 | Foundation (TV)
+draugb            | tv    | 2024 | Time Bandits (TV)
