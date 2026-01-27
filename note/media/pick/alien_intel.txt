@@ -1,26 +1,48 @@
 ---------------------------------------------------------------------------
-PICK - ALIEN INTEL
+PICK - ALIEN INTEL - BASIS
 ---------------------------------------------------------------------------
 TYPE  | YEAR | TITLE
+------|------|-------------------------------------------------------------
+game  | 1997 | GoldenEye 007
 ------|------|-------------------------------------------------------------
 book  | 2000 | Perfect Dark: Graduation Day
 book  | 2000 | Perfect Dark: Hunting Season
 book  | 2005 | Perfect Dark: Hong Kong Sunrise
 comic | 2005 | Perfect Dark: Zero (Comic)
 comic | 2007 | Perfect Dark: Janus' Tears
-film  | 1971 | The Andromeda Strain
-film  | 1982 | E.T. the Extra Terrestrial
-film  | 2002 | Lilo & Stitch
 film  | 2005 | Perfect Dark: Initial Vector
 film  | 2007 | Perfect Dark: Second Front
-game  | 1997 | GoldenEye 007
 game  | 2000 | Perfect Dark
 game  | 2000 | Perfect Dark (GBA)
 game  | 2001 | Velvet Dark (Cancelled)
-game  | 2002 | TimeSplitters 2 - Mission 1 - Siberia
 game  | 2005 | Perfect Dark: Zero
 game  | 2010 | Perfect Dark (2010)
 game  | 2025 | Perfect Dark: Initiative (Cancelled)
+------|------|-------------------------------------------------------------
+film  | 1971 | The Andromeda Strain
+film  | 1982 | E.T. the Extra Terrestrial
+film  | 2002 | Lilo & Stitch
+game  | 2002 | TimeSplitters 2 - Mission 1 - Siberia
+---------------------------------------------------------------------------
+PICK - ALIEN INTEL - CHARACTER - PROFESSER THATCH
+---------------------------------------------------------------------------
+TYPE  | YEAR | TITLE
+------|------|-------------------------------------------------------------
+anime | 2001 | Atlantis: The Lost Empire - Character - Milo Thatch
+film  | 1997 | Stagate SG-1 - Character - Daniel Jackson
+game  | 2000 | Perfect Dark - Character - Dr. Caroll
+---------------------------------------------------------------------------
+PICK - ALIEN INTEL - CHARACTER -
+---------------------------------------------------------------------------
+TYPE  | YEAR | TITLE
+------|------|-------------------------------------------------------------
+game  | 2000 | Perfect Dark - Character - Jonathan Steinberg
+game  | 2000 | Perfect Dark - Character - Jonathan Steinberg
+game  | 2000 | Perfect Dark - Character - Jonathan Steinberg
+game  | 2000 | Perfect Dark - Character - Jonathan Steinberg
+game  | 2000 | Perfect Dark - Character - Jonathan Steinberg
+game  | 2000 | Perfect Dark - Character - Jonathan Steinberg
+game  | 2000 | Perfect Dark - Character - Jonathan Steinberg
 ---------------------------------------------------------------------------
 PICK - ALIEN INTEL X
 ---------------------------------------------------------------------------
