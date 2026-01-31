@@ -66,6 +66,10 @@ TYPE  | YEAR | TITLE
 game  | 2005 | Project Snowblind
 game  | 2011 | E.Y.E: Divine Cybermancy
 ---------------------------------------------------------------------------
+PICK - SWAT CITY - CONCEPT - CIVILIAN CYBER FASHION
+---------------------------------------------------------------------------
+book  | 2002 | Feed by M.T. Anderson
+---------------------------------------------------------------------------
 PICK - SWAT CITY - CONCEPT - SENTIENCE JUICE
 ---------------------------------------------------------------------------
 TYPE  | YEAR | TITLE
