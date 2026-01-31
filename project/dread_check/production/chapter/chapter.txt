@@ -33,6 +33,8 @@ FICTION | ADVENTURE | STRATEGY   |  1XXX | UNTITLED 1XXX       | --          | -
 FICTION | ACTION    | MYSTERY    |  19XX | BLUE MONSOON        | MITHRAEA    | --
 FICTION | ADVENTURE | STRATEGY   |  19XX | HOWLING COMMANDOS   | JOSEPH S    | --
 FICTION | ADVENTURE | STRATEGY   |  20XX | HOWLING COMMANDOS 2 | JOSEPH S    | --
+FICTION | ADVENTURE | SURVIVAL   |  19XX | UNTITLED WEST 19XX  | --          | --
+FICTION | ADVENTURE | SURVIVAL   |  2XXX | UNTITLED SNOW 2XXX  | --          | --
 --------|-----------|------------|-------|---------------------|-------------|---
 FICTION | ADVENTURE | STRATEGY   | 0XXXX | RED CRY A           | TEGIMINIS   | --
 FICTION | ADVENTURE | SURVIVAL   |  21XX | THREEFOLD PATH      | SGTDOGWATER | --
@@ -48,9 +50,9 @@ CHAPTER - HISTORY
 ---------------------------------------------------------------------------------
 FOLDER  | GENRE     | MODE       | YEAR  | CHAPTER             | DIRECTOR    | --
 --------|-----------|------------|-------|---------------------|-------------|---
-HISTORY | --        | --         |  1600 | SANTORINI           | BELIMOTH    | --
-HISTORY | --        | --         |  1914 | SARAJEVO            | BELIMOTH    | --
-HISTORY | --        | --         |  1986 | PRIPYAT             | BELIMOTH    | --
-HISTORY | --        | --         |  2001 | NEW YORK CITY       | BELIMOTH    | --
-HISTORY | --        | --         |  2011 | FUKUSHIMA           | BELIMOTH    | --
-HISTORY | --        | --         |  2021 | SUEZ                | BELIMOTH    | --
+HISTORY | --        | --         |  1600 | SANTORINI           | --          | --
+HISTORY | --        | --         |  1914 | SARAJEVO            | --          | --
+HISTORY | --        | --         |  1986 | PRIPYAT             | --          | --
+HISTORY | --        | --         |  2001 | NEW YORK CITY       | --          | --
+HISTORY | --        | --         |  2011 | FUKUSHIMA           | --          | --
+HISTORY | --        | --         |  2021 | SUEZ                | --          | --
